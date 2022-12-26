@@ -46,7 +46,7 @@ $(function(){
           dinamico: false
         },
         {
-          nombre: 'Camera',
+          nombre: 'Cámara',
           icono: 'https://firebasestorage.googleapis.com/v0/b/fotos-3cba1.appspot.com/o/ios14%2Fcamara.png?alt=media&token=bd81cee7-b011-4773-a053-a7cd935e34c3',
           type: 'app',
           dinamico: false
